@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "Controle Financeiro",
+  "short_name": "Finanças",
+  "description": "Acompanhe cartões, contas e lançamentos do seu dia a dia.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#315b48",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
